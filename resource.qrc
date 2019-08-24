@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>src/sound/act_chi.wav</file>
+        <file>src/sound/act_kan.wav</file>
+        <file>src/sound/act_pon.wav</file>
+        <file>src/sound/act_rich.wav</file>
+        <file>src/sound/act_ron.wav</file>
+        <file>src/sound/act_tumo.wav</file>
+        <file>src/sound/fan_bei.wav</file>
+        <file>src/sound/fan_dong.wav</file>
+        <file>src/sound/fan_haidi.wav</file>
+        <file>src/sound/fan_hedi.wav</file>
+        <file>src/sound/fan_lingshang.wav</file>
+        <file>src/sound/fan_nan.wav</file>
+        <file>src/sound/fan_qianggang.wav</file>
+        <file>src/sound/fan_xi.wav</file>
+        <file>src/sound/gameend_yiman1.wav</file>
+        <file>src/sound/zhongxialvdong.wav</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>src/calendar.png</file>
+        <file>src/discard.png</file>
+        <file>src/load.png</file>
+        <file>src/music.png</file>
+        <file>src/new.png</file>
+        <file>src/photo.png</file>
+        <file>src/quit.png</file>
+        <file>src/save_disc.png</file>
+        <file>src/save.png</file>
+        <file>src/unlock.png</file>
+        <file>src/1280px-Flag_of_Germany.svg.png</file>
+        <file>src/next_new.png</file>
+        <file>src/prev_new.png</file>
+        <file>src/pause_new.png</file>
+        <file>src/refresh_new.png</file>
+        <file>src/run_new.png</file>
+        <file>src/wash.png</file>
+    </qresource>
+</RCC>
